@@ -30,6 +30,6 @@ ENS Paris-Saclay
 
 **Theoretical Foundations of Deep Learning** by S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome:
 
-**Computational Statistics** by S.Allassonnière:
+**Computational Statistics** by S. Allassonnière:
 
 **Geometric Data Analysis** by J. Feydy:
