@@ -1,4 +1,6 @@
-# Assignments Master *Mathématiques Vision Apprentissage* (MVA), ENS Paris-Saclay
+# Assignments Master *Mathématiques Vision Apprentissage* (MVA)
+
+ENS Paris-Saclay
 
 ## First semester
 
