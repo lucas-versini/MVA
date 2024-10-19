@@ -9,6 +9,7 @@ ENS Paris-Saclay
 **Computational optimal transport** by G. Peyré:
 
 **Convex optimization and applications in machine learning** by A. D'Aspremont:
+* Homework 1
 
 **3D computer vision** by P. Monasse, L. Landrieu:
 
@@ -17,14 +18,12 @@ ENS Paris-Saclay
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
 * Lab 2: Transfert Learning
-* Project:
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
 **Image denoising : the human machine competition** by G. Facciolo, J-M. Morel and P. Arias:
-* Lab 1:
-* Lab 2:
-* Lab 3:
+* Lab 1: DCT denoising algorithm, Ponomarenko algorithm
+* Lab 2: Multi-Scale DCT denoising, Non-Local Means denoising
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
