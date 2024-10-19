@@ -9,9 +9,11 @@ ENS Paris-Saclay
 **Computational optimal transport** by G. Peyré:
 
 **Convex optimization and applications in machine learning** by A. D'Aspremont:
-* Homework 1
+* Homework 1: convex sets, convex functions, conjugate function
 
 **3D computer vision** by P. Monasse, L. Landrieu:
+* Practical session 1: Panorama
+* Practical session 2: Fubdamental matrix, epipolar lines
 
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
 
