@@ -12,7 +12,7 @@ ENS Paris-Saclay
 * Homework 1: convex sets, convex functions, conjugate function
 
 **3D computer vision** by P. Monasse, L. Landrieu:
-* Practical session 1: Panorama
+* Practical session 1: Panorama, RANSAC algorithm
 * Practical session 2: Fundamental matrix, epipolar lines
 
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
