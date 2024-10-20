@@ -14,6 +14,7 @@ ENS Paris-Saclay
 **3D computer vision** by P. Monasse, L. Landrieu:
 * Practical session 1: Panorama, RANSAC algorithm
 * Practical session 2: Fundamental matrix, epipolar lines
+* Practical session 3: Disparity map, seed expansion
 
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
 
