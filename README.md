@@ -1,6 +1,6 @@
 # Assignments Master *Mathématiques Vision Apprentissage* (MVA)
 
-ENS Paris-Saclay
+ENS Paris-Saclay / 2024-2025
 
 ## First semester
 
