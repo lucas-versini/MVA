@@ -9,8 +9,8 @@ ENS Paris-Saclay / 2024-2025
 **Computational optimal transport** by G. Peyré:
 
 **Convex optimization and applications in machine learning** by A. D'Aspremont:
-* Homework 1: convex sets, convex functions, conjugate function
-* Homework 2: duality
+* Homework 1: Convex sets, convex functions, conjugate function
+* Homework 2: Duality
 
 **3D computer vision** by P. Monasse, L. Landrieu:
 * Practical session 1: Panorama, RANSAC algorithm
