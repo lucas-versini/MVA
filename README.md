@@ -18,6 +18,7 @@ ENS Paris-Saclay
 * Practical session 3: Disparity map, seed expansion
 
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
+* Assignment 1: Instance-level recognition
 
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
@@ -26,9 +27,9 @@ ENS Paris-Saclay
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
 **Image denoising : the human machine competition** by G. Facciolo, J-M. Morel and P. Arias:
-* Lab 1: DCT denoising algorithm, Ponomarenko algorithm
-* Lab 2: Multi-Scale DCT denoising, Non-Local Means denoising
-* Lab 3: Patch similarity, Non-Local Bayes, BM3D
+* Homework 1: DCT denoising algorithm, Ponomarenko algorithm
+* Homework 2: Multi-Scale DCT denoising, Non-Local Means denoising
+* Homework 3: Patch similarity, Non-Local Bayes, BM3D
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
