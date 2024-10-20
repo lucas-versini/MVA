@@ -28,7 +28,7 @@ ENS Paris-Saclay
 **Image denoising : the human machine competition** by G. Facciolo, J-M. Morel and P. Arias:
 * Lab 1: DCT denoising algorithm, Ponomarenko algorithm
 * Lab 2: Multi-Scale DCT denoising, Non-Local Means denoising
-* Patch similarity, Non-Local Bayes, BM3D
+* Lab 3: Patch similarity, Non-Local Bayes, BM3D
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
