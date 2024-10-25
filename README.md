@@ -22,7 +22,7 @@ ENS Paris-Saclay / 2024-2025
 
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
-* Lab 2: Transfert Learning
+* Lab 2: Transfer Learning
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
@@ -30,6 +30,7 @@ ENS Paris-Saclay / 2024-2025
 * Homework 1: DCT denoising algorithm, Ponomarenko algorithm
 * Homework 2: Multi-Scale DCT denoising, Non-Local Means denoising
 * Homework 3: Patch similarity, Non-Local Bayes, BM3D
+* Homework 4: EPLL
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
