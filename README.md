@@ -16,6 +16,7 @@ ENS Paris-Saclay / 2024-2025
 * Practical session 1: Panorama, RANSAC algorithm
 * Practical session 2: Fundamental matrix, epipolar lines
 * Practical session 3: Disparity map, seed expansion
+* Practical session 4: Disparity map, graph cut
 
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
 * Assignment 1: Instance-level recognition
