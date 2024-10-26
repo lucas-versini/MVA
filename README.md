@@ -39,5 +39,6 @@ ENS Paris-Saclay / 2024-2025
 **Theoretical Foundations of Deep Learning** by S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome:
 
 **Computational Statistics** by S. Allassonnière:
+* Practical session 1: Markov chains, Stochastic Gradient Descent
 
 **Geometric Data Analysis** by J. Feydy:
