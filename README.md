@@ -23,6 +23,7 @@ ENS Paris-Saclay / 2024-2025
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
 * Lab 2: Transfer Learning
+* Lab 3: Large Language Models
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
