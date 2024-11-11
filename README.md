@@ -20,6 +20,7 @@ ENS Paris-Saclay / 2024-2025
 
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
 * Assignment 1: Instance-level recognition
+* Assignlent 2: Neural networks
 
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
@@ -33,6 +34,7 @@ ENS Paris-Saclay / 2024-2025
 * Homework 2: Multi-Scale DCT denoising, Non-Local Means denoising
 * Homework 3: Patch similarity, Non-Local Bayes, BM3D
 * Homework 4: EPLL
+* Homework 5: CNN Denoising
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
@@ -40,5 +42,6 @@ ENS Paris-Saclay / 2024-2025
 
 **Computational Statistics** by S. Allassonnière:
 * Practical session 1: Markov chains, Stochastic Gradient Descent
+* Practical session 2: Expectation-Maximisation algorithm– Importance sampling
 
 **Geometric Data Analysis** by J. Feydy:
