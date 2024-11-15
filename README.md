@@ -11,6 +11,7 @@ ENS Paris-Saclay / 2024-2025
 **Convex optimization and applications in machine learning** by A. D'Aspremont:
 * Homework 1: Convex sets, convex functions, conjugate function
 * Homework 2: Duality
+* Homework 3: LASSO, Newton method, barrier method
 
 **3D computer vision** by P. Monasse, L. Landrieu:
 * Practical session 1: Panorama, RANSAC algorithm
