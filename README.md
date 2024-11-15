@@ -27,6 +27,8 @@ ENS Paris-Saclay / 2024-2025
 * Lab 1: Hierarchical Attention Network
 * Lab 2: Transfer Learning
 * Lab 3: Large Language Models
+* Lab 4: Machine Learning for Graphs
+* Lab 5: Deep Learning for Graphs 1
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
