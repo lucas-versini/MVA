@@ -38,6 +38,7 @@ ENS Paris-Saclay / 2024-2025
 * Homework 3: Patch similarity, Non-Local Bayes, BM3D
 * Homework 4: EPLL
 * Homework 5: CNN Denoising
+* Homework 6: CNN Denoising (bis)
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
