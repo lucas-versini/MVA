@@ -47,6 +47,6 @@ ENS Paris-Saclay / 2024-2025
 
 **Computational Statistics** by S. Allassonnière:
 * Practical session 1: Markov chains, Stochastic Gradient Descent
-* Practical session 2: Expectation-Maximisation algorithm– Importance sampling
+* Practical session 2: Expectation-Maximisation algorithm - Importance sampling
 
 **Geometric Data Analysis** by J. Feydy:
