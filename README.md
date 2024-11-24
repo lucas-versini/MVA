@@ -40,6 +40,7 @@ ENS Paris-Saclay / 2024-2025
 * Homework 4: EPLL
 * Homework 5: CNN Denoising
 * Homework 6: CNN Denoising (bis)
+* Homework 7: Noise to Noise
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
