@@ -22,6 +22,7 @@ ENS Paris-Saclay / 2024-2025
 **Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
 * Assignment 1: Instance-level recognition
 * Assignment 2: Neural networks
+* Assignment 3: Image classification (Kaggle challenge)
 
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
