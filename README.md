@@ -13,7 +13,7 @@ ENS Paris-Saclay / 2024-2025
 * Homework 2: Duality
 * Homework 3: LASSO, Newton method, barrier method
 
-**3D computer vision** by P. Monasse, L. Landrieu:
+**3D computer vision** by P. Monasse, L. Landrieu, A. Artykov:
 * Practical session 1: Panorama, RANSAC algorithm
 * Practical session 2: Fundamental matrix, epipolar lines
 * Practical session 3: Disparity map, seed expansion
