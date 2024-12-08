@@ -31,6 +31,7 @@ ENS Paris-Saclay / 2024-2025
 * Lab 4: Machine Learning for Graphs
 * Lab 5: Deep Learning for Graphs 1
 * Lab 6: Deep Learning for Graphs 2
+* Lab 7:  Learning on Sets and Graph Generative Models
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
