@@ -48,6 +48,9 @@ ENS Paris-Saclay / 2024-2025
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
 **Theoretical Foundations of Deep Learning** by S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome:
+* Practical session 1: Bayesian Models and Uncertainty
+* Practical session 2: Bayesian Neural Networks
+* Practical session 3: Applications of Deep Learning Robustness
 
 **Computational Statistics** by S. Allassonnière:
 * Practical session 1: Markov chains, Stochastic Gradient Descent
