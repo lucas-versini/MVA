@@ -35,6 +35,10 @@ ENS Paris-Saclay / 2024-2025
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
+Project essentially based on [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) by Yang Song, Stefano Ermon.
+
+See [here](https://github.com/lucas-versini/Denoising-score-matching-for-diffusion-models/tree/main).
+
 **Image denoising : the human machine competition** by G. Facciolo, J-M. Morel and P. Arias:
 * Homework 1: DCT denoising algorithm, Ponomarenko algorithm
 * Homework 2: Multi-Scale DCT denoising, Non-Local Means denoising
