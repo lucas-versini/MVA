@@ -58,3 +58,5 @@ ENS Paris-Saclay / 2024-2025
 * Practical session 4: Improve the Metropolis-Hastings algorithm
 
 **Geometric Data Analysis** by J. Feydy:
+Project on [Towards a coherent statistical framework for dense deformable template estimation](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=9ubMya8AAAAJ&citation_for_view=9ubMya8AAAAJ:u5HHmVD_uO8C) by Stéphanie Allassonnière, Yali Amit, Alain Trouvé.
+See [here](https://github.com/lucas-versini/GDA).
