@@ -13,6 +13,10 @@ ENS Paris-Saclay / 2024-2025
 * Homework 2: Duality
 * Homework 3: LASSO, Newton method, barrier method
 
+**Introduction to Statistical Learning** by N. Vayatis:
+
+No homework to do, so nothing here.
+
 **3D computer vision** by P. Monasse, L. Landrieu, A. Artykov:
 * Practical session 1: Panorama, RANSAC algorithm
 * Practical session 2: Fundamental matrix, epipolar lines
