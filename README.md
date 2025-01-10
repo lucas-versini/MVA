@@ -4,6 +4,8 @@ ENS Paris-Saclay / 2024-2025
 
 ## First semester
 
+### Learning
+
 **Reinforcement Learning** by E. Rachelson, C. Vernade:
 
 **Computational optimal transport** by G. Peyré:
@@ -16,18 +18,6 @@ ENS Paris-Saclay / 2024-2025
 **Introduction to Statistical Learning** by N. Vayatis:
 
 No homework to do, so nothing here.
-
-**3D computer vision** by P. Monasse, L. Landrieu, A. Artykov:
-* Practical session 1: Panorama, RANSAC algorithm
-* Practical session 2: Fundamental matrix, epipolar lines
-* Practical session 3: Disparity map, seed expansion
-* Practical session 4: Disparity map, graph cut
-
-**Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
-* Assignment 1: Instance-level recognition
-* Assignment 2: Neural networks
-* Assignment 3: Image classification (Kaggle challenge)
-* Project: see [here](https://github.com/lucas-versini/RecVis).
 
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
@@ -44,16 +34,6 @@ Project essentially based on [Generative Modeling by Estimating Gradients of the
 
 See [here](https://github.com/lucas-versini/Denoising-score-matching-for-diffusion-models/tree/main).
 
-**Image denoising : the human machine competition** by G. Facciolo, J-M. Morel and P. Arias:
-* Homework 1: DCT denoising algorithm, Ponomarenko algorithm
-* Homework 2: Multi-Scale DCT denoising, Non-Local Means denoising
-* Homework 3: Patch similarity, Non-Local Bayes, BM3D
-* Homework 4: EPLL
-* Homework 5: CNN Denoising
-* Homework 6: CNN Denoising (bis)
-* Homework 7: Noise to Noise
-* Homework 8: Different denoising architectures
-
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
 
 **Theoretical Foundations of Deep Learning** by S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome:
@@ -65,6 +45,30 @@ See [here](https://github.com/lucas-versini/Denoising-score-matching-for-diffusi
 * Practical session 1: Markov chains, Stochastic Gradient Descent
 * Practical session 2: Expectation-Maximisation algorithm - Importance sampling
 * Practical session 4: Improve the Metropolis-Hastings algorithm
+
+### Modelling
+
+**3D computer vision** by P. Monasse, L. Landrieu, A. Artykov:
+* Practical session 1: Panorama, RANSAC algorithm
+* Practical session 2: Fundamental matrix, epipolar lines
+* Practical session 3: Disparity map, seed expansion
+* Practical session 4: Disparity map, graph cut
+
+**Object recognition and computer vision** by G. Varol, I. Laptev, J. Ponce, C. Schmid, J. Sivic, M. Aubry:
+* Assignment 1: Instance-level recognition
+* Assignment 2: Neural networks
+* Assignment 3: Image classification (Kaggle challenge)
+* Project: see [here](https://github.com/lucas-versini/RecVis).
+
+**Image denoising : the human machine competition** by G. Facciolo, J-M. Morel and P. Arias:
+* Homework 1: DCT denoising algorithm, Ponomarenko algorithm
+* Homework 2: Multi-Scale DCT denoising, Non-Local Means denoising
+* Homework 3: Patch similarity, Non-Local Bayes, BM3D
+* Homework 4: EPLL
+* Homework 5: CNN Denoising
+* Homework 6: CNN Denoising (bis)
+* Homework 7: Noise to Noise
+* Homework 8: Different denoising architectures
 
 **Geometric Data Analysis** by J. Feydy:
 
