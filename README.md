@@ -27,6 +27,7 @@ No homework to do, so nothing here.
 * Assignment 1: Instance-level recognition
 * Assignment 2: Neural networks
 * Assignment 3: Image classification (Kaggle challenge)
+* Project: see [here](https://github.com/lucas-versini/RecVis).
 
 **Advanced learning for text and graph data** (ALTEGRAD) by  M. Vazirgiannis:
 * Lab 1: Hierarchical Attention Network
