@@ -32,6 +32,7 @@ No homework to do, so nothing here.
 * Lab 5: Deep Learning for Graphs 1
 * Lab 6: Deep Learning for Graphs 2
 * Lab 7:  Learning on Sets and Graph Generative Models
+* [Kaggle challenge](https://www.kaggle.com/competitions/generating-graphs-with-specified-properties) on [Neural Graph Generator: Feature-Conditioned Graph Generation using Latent Diffusion Models](https://arxiv.org/abs/2403.01535v2). Ranked 19/59.
 
 **Introduction to Probabilistic Graphical Models and Deep Generative Models** by P. Latouche, P.A. Mattei:
 
