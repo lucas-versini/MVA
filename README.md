@@ -7,8 +7,13 @@ ENS Paris-Saclay / 2024-2025
 ### Learning
 
 **Reinforcement Learning** by E. Rachelson, C. Vernade:
+- Homework on Stochastic Linear Bandits
+- Assignment on HIV infected patients
 
 **Computational optimal transport** by G. Peyré:
+- Numerical Tour 1: optimal transport with linear programming
+- Numerical Tour 2: entropic regularization of optimal transport
+- Project on [Optimal transport mapping via input convex neural networks](https://arxiv.org/abs/1908.10962) by Ashok Vardhan Makkuva, Amirhossein Taghvaei, Sewoong Oh, Jason D. Lee.
 
 **Convex optimization and applications in machine learning** by A. D'Aspremont:
 * Homework 1: Convex sets, convex functions, conjugate function
@@ -72,7 +77,7 @@ See [here](https://github.com/lucas-versini/Denoising-score-matching-for-diffusi
 
 **Geometric Data Analysis** by J. Feydy:
 
-See [here](https://github.com/lucas-versini/GDA). for a project on [Towards a coherent statistical framework for dense deformable template estimation](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=9ubMya8AAAAJ&citation_for_view=9ubMya8AAAAJ:u5HHmVD_uO8C) by Stéphanie Allassonnière, Yali Amit, Alain Trouvé.
+See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coherent statistical framework for dense deformable template estimation](https://scholar.google.fr/citations?view_op=view_citation&hl=fr&user=9ubMya8AAAAJ&citation_for_view=9ubMya8AAAAJ:u5HHmVD_uO8C) by Stéphanie Allassonnière, Yali Amit, Alain Trouvé.
 
 ## Second semester
 
