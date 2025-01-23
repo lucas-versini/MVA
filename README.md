@@ -41,6 +41,8 @@ Project essentially based on [Generative Modeling by Estimating Gradients of the
 See [here](https://github.com/lucas-versini/Denoising-score-matching-for-diffusion-models/tree/main).
 
 **Foundations of Distributed and Large Scale Computing Optimization** by E. Chouzenoux:
+* Practical session 3: Proximal minimization methods for spectroscopy
+* Practical session 4: Parallel MM algorithms for tomography image reconstruction
 
 **Theoretical Foundations of Deep Learning** by S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome:
 * Practical session 1: Bayesian Models and Uncertainty
