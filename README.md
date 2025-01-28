@@ -86,4 +86,26 @@ See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coh
 
 ### Learning
 
+**Deep learning for medical imaging** by O. Colliot, M. Vakalopoulou:
+
+**Representation learning for computer vision and medical imaging** by P. Gori, L. Le Folgoc:
+
+**Large Random Matrices and Application to machine learning** by J. Najim, H. Lebeau:
+
+**Sequential learning** by P. Gaillard, R. Degenne:
+
+**Kernel Methods for machine learning** by J. Mairal, M. Arbel, A. Rudi:
+
+**Graphs in Machine Learning** by D. CCalandriello:
+
+**Graphical models : Discrete inference and learning** by K. Alahari, D. Wassermann:
+
+**Deep Learning in Practice** by G. Charpiat:
+
 ### Modelling
+
+**Algorithmes pour l'optimisation et la gestion des réseaux** (Algorithms for network optimisation and management) by N. Perrot:
+
+**Generative Modeling** by B. Galerne, A. Leclaire:
+
+**Génération de Données en IA par Transport et Débruitage** (AI Data Generation by Transport and Denoising) by S. Mallat:
