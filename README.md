@@ -89,12 +89,19 @@ See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coh
 **Deep learning for medical imaging** by O. Colliot, M. Vakalopoulou:
 
 **Representation learning for computer vision and medical imaging** by P. Gori, L. Le Folgoc:
+* Lab 1: Adversarial examples - Blind spot in representation spaces
+* Lab 2: Transfer Learning
+* Lab 3: Self Supervised Rotation Prediction
+* Lab 4: Contrastive pre-training
+* Lab 5: Coding Vision Transformers in Pytorch
+* Lab 6: MAE - Self-Supervised Training of ViT in Pytorch
 
 **Large Random Matrices and Application to machine learning** by J. Najim, H. Lebeau:
 
 **Sequential learning** by P. Gaillard, R. Degenne:
 
 **Kernel Methods for machine learning** by J. Mairal, M. Arbel, A. Rudi:
+* Homework 1: Kernels
 
 **Graphs in Machine Learning** by D. CCalandriello:
 
