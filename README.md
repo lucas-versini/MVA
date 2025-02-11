@@ -108,6 +108,7 @@ See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coh
 **Graphical models : Discrete inference and learning** by K. Alahari, D. Wassermann:
 
 **Deep Learning in Practice** by G. Charpiat:
+* Lab 2: Grad-CAM
 
 ### Modelling
 
