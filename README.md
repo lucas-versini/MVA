@@ -103,7 +103,9 @@ See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coh
 **Kernel Methods for machine learning** by J. Mairal, M. Arbel, A. Rudi:
 * Homework 1: Kernels
 
-**Graphs in Machine Learning** by D. CCalandriello:
+**Graphs in Machine Learning** by D. Calandriello:
+* Homework 1: Spectral clustering
+* Homework 2: Semi-supervised learning
 
 **Graphical models : Discrete inference and learning** by K. Alahari, D. Wassermann:
 
@@ -111,9 +113,5 @@ See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coh
 * Lab 2: Grad-CAM
 
 ### Modelling
-
-**Algorithmes pour l'optimisation et la gestion des réseaux** (Algorithms for network optimisation and management) by N. Perrot:
-
-**Generative Modeling** by B. Galerne, A. Leclaire:
 
 **Génération de Données en IA par Transport et Débruitage** (AI Data Generation by Transport and Denoising) by S. Mallat:
