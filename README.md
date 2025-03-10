@@ -95,6 +95,8 @@ See [here](https://github.com/lucas-versini/GDA) for a project on [Towards a coh
 * Lab 4: Contrastive pre-training
 * Lab 5: Coding Vision Transformers in Pytorch
 * Lab 6: MAE - Self-Supervised Training of ViT in Pytorch
+* Lab 7 (1): MaskGIT autoencoder
+* Lab 7 (2): VAE - Image Reconstruction, deneration and disentanglement
 
 **Large Random Matrices and Application to machine learning** by J. Najim, H. Lebeau:
 
